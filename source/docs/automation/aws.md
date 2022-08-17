@@ -1,4 +1,4 @@
-# Set up AWS on Bouncer
+# Set up AWS on bouncer
 
 EC2 is the AWS service managing machines, networks, load balancers, etc.
 
