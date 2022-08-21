@@ -60,3 +60,7 @@ Red teamers assess the detection maturity of a company by performing real-world 
    docs/automation/terraform.md
    docs/automation/aws.md
 
+.. toctree::
+   :caption: Links
+
+   Red Team <https://tymyrddin.github.io/red/>
