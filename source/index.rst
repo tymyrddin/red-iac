@@ -11,11 +11,12 @@ Red teamers assess the detection maturity of a company by performing real-world 
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Local terminal
+   :caption: Local endpoints
 
    docs/local/README.md
    docs/local/vpn.md
    docs/local/location.md
+   docs/local/adapters.md
    docs/local/ephemeral.md
 
 .. toctree::

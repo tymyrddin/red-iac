@@ -15,4 +15,5 @@ ourselves.
 
 * [Choose carefully when using a VPN](vpn.md)
 * [Pick a sound location to attack from](location.md)
+* [Wireless adapters](adapters.md)
 * [Use an ephemeral OS that leaves less trace](ephemeral.md)
