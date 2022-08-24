@@ -1,8 +1,7 @@
 # Major providers
 
 All major cloud providers (AWS, Google Cloud, Microsoft Azure, Alibaba, etc.) require a credit card before approving 
-your account. This may not be a problem, as there may be services that provide prepaid credit cards in exchange for 
-cash. Have not tried that yet.
+your account.
 
 # Resources
 

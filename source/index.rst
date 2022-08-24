@@ -11,13 +11,22 @@ Red teamers assess the detection maturity of a company by performing real-world 
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Local endpoints
+   :caption: Redirectors
 
-   docs/local/README.md
-   docs/local/vpn.md
-   docs/local/location.md
-   docs/local/adapters.md
-   docs/local/ephemeral.md
+   docs/redirectors/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Attack machines
+
+   docs/attack/README.md
+   docs/attack/vpn.md
+   docs/attack/location.md
+   docs/attack/adapters.md
+   docs/attack/ephemeral.md
+   docs/attack/server.md
 
 .. toctree::
    :glob:
@@ -25,10 +34,10 @@ Red teamers assess the detection maturity of a company by performing real-world 
    :includehidden:
    :caption: Bounce servers
 
-   docs/servers/README.md
-   docs/servers/payments.md
-   docs/servers/major-providers.md
-   docs/servers/alt-providers.md
+   docs/bouncers/README.md
+   docs/bouncers/payments.md
+   docs/bouncers/major-providers.md
+   docs/bouncers/alt-providers.md
 
 .. toctree::
    :glob:
