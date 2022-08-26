@@ -8,7 +8,7 @@ The red team performs real-world attacks. For that we have to pretend to be adve
 no matter what. Redirectors can be used to proxy requests coming from the target back to our attack infrastructure.
 A solution with bounce servers is much more elegant and replacing infrastructure components can be done in minutes.
 And automating the server set up process like this also helps in exploring current DevOps methodologies to better
-understand the underlying technologies used in cloud computing and DevOps practices.
+understand the underlying technologies.
 
 .. toctree::
    :glob:
