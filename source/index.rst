@@ -4,8 +4,11 @@ A foothold in the cloud
 .. image:: _static/images/attack-infra.png
   :alt: Overview
 
-Red teamers assess the detection maturity of a company by performing real-world attacks. In theory, without scope.
-"Ouiet! Loose data can cost lives!"
+The red team performs real-world attacks. For that we have to pretend to be adversaries that do not wish to be detected
+no matter what. Redirectors can be used to proxy requests coming from the target back to our attack infrastructure.
+A solution with bounce servers is much more elegant and replacing infrastructure components can be done in minutes.
+And automating the server set up process like this also helps in exploring current DevOps methodologies to better
+understand the underlying technologies used in cloud computing and DevOps practices.
 
 .. toctree::
    :glob:

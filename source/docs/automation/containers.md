@@ -1,4 +1,4 @@
-# Spawn containers
+# Spawning containers
 
 Whichever cloud provider we chose and whatever Linux distribution they host, as long as there is Docker support, we 
 can spawn the fully configured C2 backends using a couple of command lines. 

@@ -12,9 +12,7 @@ Here we use AWS and Terraform.
 
 ## Why?
 
-* Maintenance takes little time and we can focus on the red teaming itself.
-* Automating the server set up process helps in exploring current DevOps methodology to better understand what to look 
-for once we are in a similar environment.
+* Maintenance takes little time, and we can focus on the pentesting/red teaming itself.
 * Terraform is open source and [supports a number of cloud providers](https://registry.terraform.io/browse/providers), 
 which makes it the best choice if you chose an alternative provider that accepts Zcash.
 
@@ -22,7 +20,7 @@ which makes it the best choice if you chose an alternative provider that accepts
 
 * [AWS](aws.md)
 * [Download Terraform in bouncing server](terraform.md)
-* [Spawn containers](containers.md)
+* [Spawning containers](containers.md)
 
 
 
