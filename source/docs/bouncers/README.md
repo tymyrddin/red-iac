@@ -8,12 +8,9 @@ bouncing servers every few weeks. Limitation is the payment solution supported b
 
 ## Why?
 
-* Bouncing servers are used to host management tools like Terraform, Docker, and Ansible to support  
-multiple attack infrastructures.
-* Although the servers never interact with the target, they can be associated with those parts of our attack 
-infrastructures that do.
-* Virtual servers (VPS) can be hosted on one or many cloud providers spread across many 
-geographical locations.
+* Bouncing servers are used to host management tools like Terraform, Docker, and Ansible to support multiple attack infrastructures.
+* Although the servers never interact with the target, they can be associated with those parts of our attack infrastructures that do.
+* Virtual servers (VPS) can be hosted on one or many cloud providers spread across many geographical locations.
 
 ## How?
 

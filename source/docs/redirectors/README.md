@@ -15,5 +15,5 @@ not subject to the IP ban.
 ## How?
 
 * Set up a redirector for each specific operation.
-* Note the solution with bounce servers is much more elegant and quick.
+* Note the solution with [bounce servers](../bouncers/README.md) is much more elegant and quick.
 * [Professor-plum/Presentations](https://github.com/Professor-plum/Presentations)
