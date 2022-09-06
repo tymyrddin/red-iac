@@ -1,4 +1,4 @@
-# Pick a sound location to attack from
+# Pick a sound location
 
 Whether using Tor or VPN services, always assume that your IP address, thus your geographical location and/or browser 
 fingerprint is known to intermediaries and can be discovered by the target or anyone investigating on their behalf.

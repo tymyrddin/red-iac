@@ -1,4 +1,4 @@
-# Research anonymous payments
+# Anonymous payments
 
 ## Cryptocurrency
 Cryptocurrency is only “anonymous” as long as you keep your crypto wallet separate from your identity.

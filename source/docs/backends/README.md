@@ -17,8 +17,8 @@ Windows 10, with PowerShell block logging and AMSI, this is no longer the case.
 
 ## How?
 
-* [Metasploit container for Linux and macOS targets](metasploit.md)
-* [SilentTrinity container for Windows targets](silenttrinity.md)
+* [Metasploit container](metasploit.md) for Linux and macOS targets
+* [SilentTrinity container](silenttrinity.md) for Windows targets
 
 
 

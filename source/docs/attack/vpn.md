@@ -1,4 +1,4 @@
-# Choose carefully when using a VPN
+# Using a VPN
 
 Using a VPN service that promises total anonymity, while having registered using your IP address, credit card, and 
 your name and address? And using it for other stuff as well, like sites where you have registered?

@@ -1,4 +1,4 @@
-# Use an ephemeral OS that leaves less trace
+# Use an ephemeral OS
 
 For red teaming, use an ephemeral operating system that flushes everything away on every reboot. Store this OS on a USB
 stick, and whenever a nice spot is found, plug it into the computer and boot from it.

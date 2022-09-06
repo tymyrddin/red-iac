@@ -22,19 +22,6 @@ understand the underlying technologies.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Attack machines
-
-   docs/attack/README.md
-   docs/attack/vpn.md
-   docs/attack/location.md
-   docs/attack/adapters.md
-   docs/attack/ephemeral.md
-   docs/attack/server.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
    :caption: Bounce servers
 
    docs/bouncers/README.md
@@ -72,6 +59,20 @@ understand the underlying technologies.
    docs/automation/containers.md
    docs/automation/terraform.md
    docs/automation/aws.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Attack machines
+
+   docs/attack/README.md
+   docs/attack/vpn.md
+   docs/attack/location.md
+   docs/attack/ephemeral.md
+   docs/attack/server.md
+   docs/attack/hardware.md
+   docs/attack/software.md
 
 .. toctree::
    :caption: Links

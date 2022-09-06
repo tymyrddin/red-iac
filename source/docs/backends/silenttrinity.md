@@ -1,4 +1,6 @@
-# SilentTrinity container for Windows targets
+# SilentTrinity container 
+
+For Windows targets
 
 Dockerfile to start the SILENTTRINITY team server `~/SILENTTRINITY/Dockerfile`
 
