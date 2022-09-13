@@ -15,7 +15,11 @@
 * [HAK5 WIFI pineapple](https://shop.hak5.org/products/wifi-pineapple) 
 * [MK7AC WiFi Adapter](https://shop.hak5.org/products/mk7ac-wifi-adapter)
 
-### Alternatives
+### Alternative adapters
+
+If your wireless adapter fails to go into monitor mode in Kali, try killing processes with `rfkill unblock all`. 
+Then try to put the adapter in monitor mode. If it still doesn’t work, your wireless adapter may not support monitor 
+mode.
 
 #### Atheros chipset AR9271
 
