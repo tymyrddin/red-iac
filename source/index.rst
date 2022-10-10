@@ -46,6 +46,7 @@ understand the underlying technologies.
    :caption: Backends
 
    docs/backends/README.md
+   docs/backends/c2s.md
    docs/backends/metasploit.md
    docs/backends/silenttrinity.md
 
