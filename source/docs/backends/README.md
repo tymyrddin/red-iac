@@ -2,11 +2,11 @@
 
 ## What?
 
-In the grove we have been using tools such as Metasploit and Empire for post-exploitation. For red teaming some of 
-these tools are still useful, but for others we will have to switch to other tools.
+Choose C2 wisely.
 
 ## Why?
 
+Landslides:
 * For the best part of the last decades the undefeated champion of C2 frameworks was the Metasploit framework, but the 
 default settings of the tool have been flagged by every Windows security product since 2007. For hacking Linux PC's it 
 can still be a good choice.
@@ -18,8 +18,8 @@ Windows 10, with PowerShell block logging and AMSI, this is no longer the case.
 ## How?
 
 * [About C2s](c2s.md)
-* [Metasploit container](metasploit.md) for Linux and macOS targets
-* [SilentTrinity container](silenttrinity.md) for Windows targets
+* [Metasploit container](metasploit.md)
+* [SilentTrinity container](silenttrinity.md)
 
 
 
