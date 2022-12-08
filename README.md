@@ -1,7 +1,4 @@
-# Attack Trees
-
-![Publish A foothold in the cloud using Sphinx](https://github.com/tymyrddin/red-iac/workflows/Publish%20A%20foothold%20in%20the%20cloud%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/red-iac/
+# Infrastructure as code
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
