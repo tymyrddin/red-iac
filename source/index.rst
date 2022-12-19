@@ -76,6 +76,19 @@ understand the underlying technologies.
    docs/attack/software.md
 
 .. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Kali box
+
+   docs/kali/README.md
+   docs/kali/kali.md
+   docs/kali/windows.md
+   docs/kali/burp.md
+   docs/kali/zap.md
+   docs/kali/immunity.md
+
+.. toctree::
    :caption: Links
 
    Red Team <https://red.tymyrddin.dev/>

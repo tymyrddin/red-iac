@@ -78,5 +78,6 @@ html_show_copyright = False
 # Intersphinx
 intersphinx_mapping = {
     "red-hurdles": ("https://red.tymyrddin.dev/projects/fire/en/latest/", None),
+    "purple": ("https://purple.tymyrddin.dev/en/latest/", None),
 }
 myst_url_schemes = ["http", "https", ]
