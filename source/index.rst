@@ -79,14 +79,14 @@ understand the underlying technologies.
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Kali box
+   :caption: Local testlab
 
-   docs/kali/README.md
-   docs/kali/kali.md
-   docs/kali/windows.md
-   docs/kali/burp.md
-   docs/kali/zap.md
-   docs/kali/immunity.md
+   docs/lab/README.md
+   docs/lab/kali.md
+   docs/lab/windows.md
+   docs/lab/burp.md
+   docs/lab/zap.md
+   docs/lab/immunity.md
 
 .. toctree::
    :caption: Links

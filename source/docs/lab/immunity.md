@@ -1,4 +1,4 @@
-# Installing Immunity Debugger
+# Installing Immunity Debugger on Windows
 
 Installing [Immunity Debugger](https://www.immunityinc.com/products/debugger/) requires the 32bit MSI installer 
 for Python 2.7.18.
