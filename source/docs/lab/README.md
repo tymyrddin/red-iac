@@ -17,6 +17,7 @@ Build a virtual local testlab.
 * [Install a Windows VM](windows.md)
 * [Setting up Burp Suite on Kali](burp.md)
 * [Setting up ZAP on Kali](zap.md)
+* [Using firefox as proxy for Burp and Zap](foxyproxy.md)
 * [Installing Immunity Debugger on Windows](immunity.md)
 
 

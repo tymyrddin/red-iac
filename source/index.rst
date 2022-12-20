@@ -86,6 +86,7 @@ understand the underlying technologies.
    docs/lab/windows.md
    docs/lab/burp.md
    docs/lab/zap.md
+   docs/lab/foxyproxy.md
    docs/lab/immunity.md
 
 .. toctree::
