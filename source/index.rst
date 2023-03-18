@@ -78,17 +78,3 @@ understand the underlying technologies.
    docs/attack/server.md
    docs/attack/hardware.md
    docs/attack/software.md
-
-.. toctree::
-   :glob:
-   :maxdepth: 1
-   :includehidden:
-   :caption: Local testlab
-
-   docs/lab/README.md
-   docs/lab/kali.md
-   docs/lab/windows.md
-   docs/lab/burp.md
-   docs/lab/zap.md
-   docs/lab/foxyproxy.md
-   docs/lab/immunity.md
