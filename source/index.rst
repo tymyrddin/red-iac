@@ -51,6 +51,7 @@ understand the underlying technologies.
 
    docs/backends/README.md
    docs/backends/c2s.md
+   docs/backends/landslides.md
    docs/backends/metasploit.md
    docs/backends/silenttrinity.md
 
@@ -76,5 +77,3 @@ understand the underlying technologies.
    docs/attack/location.md
    docs/attack/ephemeral.md
    docs/attack/server.md
-   docs/attack/hardware.md
-   docs/attack/software.md
